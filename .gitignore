@@ -1,0 +1,28 @@
+# Python
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Data files (optional)
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+.virtual_documents/
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
+
+*.pkl
+.virtual_documents/
+.ipynb_checkpoints/
+__pycache__/
